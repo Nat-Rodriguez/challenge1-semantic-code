@@ -1,2 +1,5 @@
 # challenge1-semantic-code
-Replace starter code with semantic html
+
+## Task
+
+I will refactore starter code with semantic html in order to make it more accessible while retaining its functionality and appearance.
